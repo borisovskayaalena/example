@@ -1,4 +1,4 @@
-baseURL = "http://borisovskayaalena.github.io/"
+baseURL = "https://borisovskayaalena.github.io/example/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 publishDir="docs"
