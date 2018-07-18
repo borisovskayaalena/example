@@ -1,6 +1,7 @@
 baseURL = "http://borisovskayaalena.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
+publishDir="docs"
 
 
 
